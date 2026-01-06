@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Env
+.env
+.env.*
+!.env.example
+
+# Docker
+**/docker-data/
+**/volumes/
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.cursor/
+.vscode/
+
+# Logs
+*.log
